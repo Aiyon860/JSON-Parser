@@ -1,0 +1,29 @@
+{
+  "key": "value",
+  "key-n": 101,
+  "key-nn": -101,
+  "key-f": 1.2345,
+  "key-f2": 0.45,
+  "key-e": 1e10,
+  "key-e2": -2.3E-4,  
+  "utf-8": "\u005C",
+  "key-o": {
+    "inner key": "inner value",
+    "inner object" : {
+      "abra": 12,
+      "inner object 2" : {
+        "abra": 12
+      }
+    }
+  },
+  "key-l": [
+    "list value", 
+    "list value 2",
+    {
+      "abra": 12,
+      "inner object 2" : {
+        "abra": "amba"
+      }
+    }
+  ]
+}

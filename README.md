@@ -1,6 +1,6 @@
 # JSON Parser in C
 
-A minimalist JSON parser implemented in C. This project aims to parse and validate JSON strings according to the [ECMA-404 JSON Standard](https://www.json.org/json-en.html), supporting detailed error reporting, proper AST (Abstract Syntax Tree) generation, and tokenization.
+A minimalist JSON parser implemented in C. This project aims to parse and validate JSON strings according to the [RFC 4627 JSON Standard](https://www.rfc-editor.org/rfc/rfc4627), supporting detailed error reporting, proper AST (Abstract Syntax Tree) generation, and tokenization.
 
 ---
 
